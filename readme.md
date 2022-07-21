@@ -5,8 +5,8 @@ Run: main.py
 Before running, please:
 1. Download and move to folder __data__ our depth videos:
 https://edysk.zut.edu.pl/index.php/s/yLBiJPH6WGAG2t6
-2. Install dependencies - __pip install -r requirements.txt__. Convenient is using PyCharm IDE and creating a virtual environment.
-3. If you would like to use __nn__ predictor, please compile and install __spconv 1.2.1__ library (readme and library included in folder spconv, works only on Linux).
+2. Install dependencies - __pip install -r requirements.txt__. Convenient is using PyCharm IDE and creating a virtual environment (detailed manual in **INSTALL.pdf**).
+3. If you would like to use __nn__ predictor, please compile and install __spconv 1.2.1__ library (library included in folder spconv, installation guide in **INSTALL.pdf** works only on Linux).
 
 
 ## Configuration (in file config.ini)
